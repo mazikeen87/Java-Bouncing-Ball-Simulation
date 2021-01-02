@@ -1,0 +1,39 @@
+The acm.jar package file is licensed for use as follows:
+
+"""
+ACM Java Task Force Software Licensing Agreement
+
+All software, both binary and source, distributed as part of the Java Task Force release (hereafter,
+Software) is copyrighted by the Association for Computing Machinery (hereafter, ACM) and
+ownership of all right, title, and interest in and to the Software remains with ACM. The ACM
+grants to you (hereafter, User) a royalty-free, nonexclusive right to execute, copy, modify and
+distribute both the binary and source code, subject to the following conditions:
+1. By using or copying the Software, User agrees to abide by the terms of this Agreement.
+2. User acknowledges that the Software is still in the development stage and that it is being
+supplied "as is," without any support services from ACM. Neither ACM nor the Authors of
+the Software make any representations or warranties, express or implied, including, without
+limitation, any representations or warranties of the merchantability or fitness for any
+particular purpose, or that the application of the software, will not infringe on any patents or
+other proprietary rights of others.
+3. ACM and/or the Authors of the Software shall not be held liable for direct, indirect,
+incidental, or consequential damages arising from any claim by User or any third party with
+respect to uses allowed under this Agreement, or from any use of the Software.
+4. User agrees to fully indemnify and hold harmless ACM and/or the Authors of the Software
+from and against any and all claims, demands, suits, losses, damages, costs, and expenses
+arising out of the User's use of the Software, including, without limitation, arising out of the
+User's modification of the Software.
+5. User may modify the Software and distribute that modified work to third parties provided
+that: (a) if posted separately, it clearly acknowledges that it contains material copyrighted by
+ACM, (b) User agrees to notify ACM and the Authors of the distribution, and (c) User clearly
+notifies secondary users that such modified work is not the original Software.
+6. This agreement will terminate immediately upon User's breach of, or non-compliance with,
+any of its terms. User may be held liable for any copyright infringement or the infringement
+of any other proprietary rights in the Software that is caused or facilitated by the User's
+failure to abide by the terms of this agreement.
+7. This agreement will be construed and enforced in accordance with the law of the state of
+New York applicable to contracts performed entirely within the State. The parties irrevocably
+consent to the exclusive jurisdiction of the state or federal courts located in the City of New
+York for all disputes concerning this agreement.
+"""
+
+This license can be found here: https://cs.stanford.edu/people/eroberts/jtf/documents/License.pdf
